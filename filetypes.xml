@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
+      <mapping ext="graphqlconfig" type="JSON" />
       <mapping pattern=".eslinrc" type="Native" />
       <mapping ext="wasm" type="PLAIN_TEXT" />
       <removed_mapping ext="ignore" approved="true" type="IgnoreLang file" />
