@@ -4,6 +4,7 @@
       <mapping pattern=".eslinrc" type="Native" />
       <mapping ext="graphqlconfig" type="PLAIN_TEXT" />
       <mapping ext="wasm" type="PLAIN_TEXT" />
+      <mapping ext="csv" type="PLAIN_TEXT" />
       <removed_mapping ext="graphqlconfig" approved="true" type="JSON" />
       <removed_mapping ext="ignore" approved="true" type="IgnoreLang file" />
     </extensionMap>
