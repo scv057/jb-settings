@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
+      <mapping pattern="README.md" type="AUTO_DETECTED" />
       <mapping pattern=".eslinrc" type="Native" />
       <mapping ext="graphqlconfig" type="PLAIN_TEXT" />
       <mapping ext="wasm" type="PLAIN_TEXT" />
