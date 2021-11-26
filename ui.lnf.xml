@@ -45,6 +45,7 @@
       <NestingRule child-file-suffix=".js.map" parent-file-suffix=".tsx" />
       <NestingRule child-file-suffix=".jsx" parent-file-suffix=".tsx" />
       <NestingRule child-file-suffix=".jsx.map" parent-file-suffix=".tsx" />
+      <NestingRule child-file-suffix=".test.tsx" parent-file-suffix=".tsx" />
       <NestingRule child-file-suffix=".css" parent-file-suffix=".vue" />
       <NestingRule child-file-suffix=".js" parent-file-suffix=".vue" />
       <NestingRule child-file-suffix=".tmpl" parent-file-suffix=".vue" />
