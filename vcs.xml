@@ -22,6 +22,10 @@
           <option name="url" value="http://git.woa.com" />
           <option name="userName" value="v_yanghhxie" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://git.vika.ltd" />
+          <option name="userName" value="xieyanghao@vikadata.com" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/WebstormProjects" />
